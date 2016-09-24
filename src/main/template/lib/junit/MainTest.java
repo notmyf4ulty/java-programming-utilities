@@ -1,4 +1,4 @@
-package com.catnbear;
+package src.main.template.lib.junit;
 
 // NOTE: Import class to be tested.
 import org.junit.runner.JUnitCore;
