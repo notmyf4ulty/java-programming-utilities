@@ -1,4 +1,6 @@
-package src.example.template.pattern.observer;
+package example.template.pattern.observer;
+
+import java.util.Observable;
 
 public class ObserverPatternDemo {
     public static void main(String [] args) {

@@ -1,4 +1,4 @@
-package src.main.template.lib.junit;
+package template.lib.junit;
 
 // NOTE: Import class to be tested.
 import org.junit.runner.JUnitCore;
@@ -7,7 +7,7 @@ import org.junit.runner.notification.Failure;
 
 public class MainTest {
     public static void main(String[] args) {
-        Result result = JUnitCore.runClasses(YOUR_CLASS_TO_BE_TESTED.class);
+        Result result = JUnitCore.runClasses(/*insert tested classes here*/);
 
         for (Failure failure : result.getFailures()) {
             System.out.println(failure.toString());

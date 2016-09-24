@@ -1,4 +1,4 @@
-package src.example.template.pattern.observer;
+package template.pattern.observer;
 
 import java.util.ArrayList;
 import java.util.List;

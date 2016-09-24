@@ -1,4 +1,4 @@
-package src.example.template.pattern.observer;
+package example.template.pattern.observer;
 
 public class BinaryObserver extends Observer {
 
